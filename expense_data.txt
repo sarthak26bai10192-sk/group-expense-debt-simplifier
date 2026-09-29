@@ -1,0 +1,7 @@
+MEMBERS
+Aditya
+Sarthak
+Harsh
+EXPENSES
+Aditya,546.0,Aditya|Sarthak|Harsh
+Harsh,140.0,Aditya|Sarthak|Harsh
